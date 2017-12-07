@@ -17,8 +17,10 @@ for line in lines:
 with open('quotes.txt', encoding = 'utf-8') as f:   #не получиилось(((((((
     lines = f.readlines()
 for line in lines:
-            for word in line:
+    cells = line.split('—')
+    for cell in cells:
+             words = cell.split()
+             for word in words:
                 if word == 'разум':
-                    print(line.count('разум'))    
-
-
+                    print(line.count('разум'))
+               
