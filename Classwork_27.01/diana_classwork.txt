@@ -1,0 +1,24 @@
+d = {'English': 4, 'Math': 3, 'Physics': 5}
+print(d['Math'])
+school = {
+    '8a': ['Matrie', 'Caroline'],
+    '3b': ['Kate', 'Lucia'],
+    'учитель музыки': 'Максим Викторович',
+}
+print(school['3b'][1])
+
+empty_dict = {}
+# dict2 = dict([[1, 'one'], [2, 'two']])
+empty_dict2 = dict()
+print(school)
+
+
+school['учитель физики'] = 'Михаил Васильевич'
+school['учитель музыки'] = 'Алла Борисовна'
+print(school)
+
+school2 = {'Учитель физики': 'Александр Иванович', 'физрук': 'Елена Евгеньевна',
+}
+
+school.update(school2)
+print(school)
