@@ -1,3 +1,4 @@
+import collections
 def words_from_text(fname):
     with open(fname, encoding = 'utf-8') as f:
         text = f.read()
@@ -13,9 +14,17 @@ def word_count(words):
             count[x] +=1
         else:
             count[x] = 1
+    for k, v in count.items():
+        count[k] = v / len(words)
     return count
+def most_popular(count, n):
+    words = sorted(count, key=count.get, reverse=True)
+    return words[:n]
 
 words = words_from_text('dochka.txt')
 #print(words[:20])
 count = word_count(words)
-print(count['оправдание'])
+#print(count['оправдание'])
+print(most_popular(count, 20))
+counter = collections.Counter(words)
+print(counter.most_common(20))
