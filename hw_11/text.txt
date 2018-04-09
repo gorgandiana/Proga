@@ -1,0 +1,663 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-112384691-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-112384691-1');
+</script>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-9030444976841807",
+    enable_page_level_ads: true
+  });
+</script>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+<title>Рыбы - Класс рыбы - Виды рыб</title>
+<meta name="robots" content="index, follow" />
+<link rel="alternate" type="application/rss+xml" title="Мир животных" href="/rss.php" /> 
+<meta name="keywords" content="рыбы, класс рыбы строение" />
+<meta name="description" content="класс рыбы, рыбы фото, рыба в полете " />
+<meta name="msvalidate.01" content="C572CC3C5B4980329C935E877AF2FD12" />
+<link href="style.css" rel="stylesheet" type="text/css" />
+<link rel="shortcut icon" href="/image/oformlenie/favicon.ico" type="image/x-icon">
+<link href="menu/menu_vertical.css" rel="stylesheet" type="text/css" />
+<script src="menu/menu_vertical.js"></script>
+<link href="menu/menu_vertical.css" rel="stylesheet" type="text/css" />
+<meta name='yandex-verification' content='5636b286a5d6ff70' />
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script type="text/javascript">
+ $(function() {
+$(window).scroll(function() {
+ if($(this).scrollTop() != 0) {
+$('#toTop').fadeIn();
+ } else {
+ $('#toTop').fadeOut();
+ }
+ });
+ $('#toTop').click(function() {
+ $('body,html').animate({scrollTop:0},800);
+ });
+ });
+ </script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<meta name="format-detection" content="telephone=no"/>
+<link rel="stylesheet" href="/zhiv/adaptive.css?8">
+<script type="text/javascript" src="/zhiv/adaptive.js"></script>
+</head>
+
+<body>
+<div class="newwrap">
+<table  border="0" width="100%" cellpadding="00" cellspacing="00" align="center" bgcolor="#bfd7f7">
+<tr>
+    <td class="run_string" align="right"><a href="index_ru.php?cat=interes&ind=398" class="menu_3">Продажа тибетского мастифа по доступной цене</a>|<a href="/feedback/">контакт с администратором по поводу рекламы</a>&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="5">
+	<table border="0"  width="100%" cellpadding="00" cellspacing="00" align="center">
+  <tr>
+    <td class="fon_shapka_4">&nbsp;</td>
+	<td class="fon_shapka_2">&nbsp;</td>
+	 <td class="fon_shapka_1">&nbsp;</td>
+    <td class="fon_shapka_2">&nbsp;</td>
+    <td class="fon_shapka_3">&nbsp;</td>
+  </tr>
+</table>
+</td>
+  </tr>
+   <tr>
+    <td colspan="5"
+	><table width="100%" border="1" align="center" >
+      <tr>
+	   	<!--Место вставки меню-->
+        <td width="20%" valign="top"><table border="1"  cellpadding='2' cellspacing='2' align="center">
+		<tr class="zagolovok_news">
+									<td>Меню
+									</td>
+			  </tr>
+  <tr>
+    <td><div class="sidebarmenu">
+<ul id="sidebarmenu1">
+<li><a href="/index_ru.php?cat=zooparki&ind=1" title="зоопарки Украины" target="_blank">Зоопарки Украины</a></li>
+<li><a href="/index_ru.php?cat=zhivotnue_krasnoi_knigi&ind=1" title="Животные красной книги" target="_blank">Животные Красной книги</a></li>
+<li><a href="/index_ru.php?cat=soxranenie_zhivotnux&ind=0" title="сохранение животных" target="_blank">Сохранение животных</a></li>
+<li><a href="/index_ru.php?cat=dikie_zhivotnue&ind=1" title="дикие животные" target="_blank">Дикие животные</a>
+<ul>
+  <li><a href="/index_ru.php?cat=dikie_zhivotnue&ind=4" title="семейство волчьи" target="_blank">Семейство волчьих</a></li>
+  <li><a href="/index_ru.php?cat=dikie_zhivotnue&ind=5" title="семейство енотовых" target="_blank">Семейство енотовых</a></li>
+  <li><a href="/index_ru.php?cat=dikie_zhivotnue&ind=6" title="семейство кошачьих" target="_blank">Семейство кошачьих</a></li>
+  <li><a href="/index_ru.php?cat=dikie_zhivotnue&ind=7" title="семейство лошади" target="_blank">Семейство лошади</a></li>
+  <li><a href="/index_ru.php?cat=dikie_zhivotnue&ind=8" title="семейство медведей" target="_blank">Семейство медведей</a></li>
+  <li><a href="/index_ru.php?cat=dikie_zhivotnue&ind=9" title="отряд грызуны" target="_blank">Отряд грызуны</a></li>
+  <li><a href="/index_ru.php?cat=dikie_zhivotnue&ind=10" title="семейство обезьян" target="_blank">Семейство обезьян</a></li>
+  <li><a href="/index_ru.php?cat=dikie_zhivotnue&ind=12" title="семейство оленьих" target="_blank">Семейство оленьих</a></li>
+  <li><a href="/index_ru.php?cat=dikie_zhivotnue&ind=13" title="семество верблюжьи" target="_blank">Семество верблюжьи</a></li>
+  <li><a href="/index_ru.php?cat=dikie_zhivotnue&ind=14" title="семейство бегемотовые" target="_blank">Семейство бегемотовые</a></li>
+  <li><a href="/index_ru.php?cat=dikie_zhivotnue&ind=15" title="семейство полорогие" target="_blank">Семейство плорогие</a></li>
+  <li><a href="/index_ru.php?cat=dikie_zhivotnue&ind=16" title="семейство слоновых" target="_blank">Семейство слоновых</a></li>
+  <li><a href="/index_ru.php?cat=dikie_zhivotnue&ind=19" title="ехидна" target="_blank">Ехидна</a></li>
+  <li><a href="/index_ru.php?cat=dikie_zhivotnue&ind=44" title="семейство рукокрылые" target="_blank">Рукокрылые</a></li>
+</ul>
+</li>
+
+
+<li><a href="/index_ru.php?cat=pticu&ind=1" title="рыбы" target="_blank">Рыбы</a>
+<ul>
+	<li><a href="/index_ru.php?cat=pticu&ind=2" title="орлы" target="_blank">Орлы</a></li>
+	<li><a href="/index_ru.php?cat=pticu&ind=3" title="нелетающие рыбы" target="_blank">Бескилевые рыбы</a></li>
+    <li><a href="/index_ru.php?cat=pticu&ind=4" title="семейство соколиные" target="_blank">Семейство соколиные</a></li>
+</ul>	
+</li>
+<li><a href="/index_ru.php?cat=presmukaushie&ind=1" title="пресмыкающиеся и земноводные" target="_blank">Пресмыкающиеся и земноводные</a></li>
+<li><a href="/index_ru.php?cat=morskie_mlekopitaushie&ind=1" title="морские млекопитающие" target="_blank">Морские млекопитающие</a>
+<ul>
+<li><a href="/index_ru.php?cat=morskie_mlekopitaushie&ind=2" title="морская корова" target="_blank">Морская корова</a></li>
+<li><a href="/index_ru.php?cat=morskie_mlekopitaushie&ind=7" title="киты" target="_blank">Киты</a></li>
+<li><a href="/index_ru.php?cat=morskie_mlekopitaushie&ind=13" title="ластоногие" target="_blank">Ластоногие</a></li>
+</ul>
+</li>
+<li><a href="/index_ru.php?cat=rubu&ind=1" title="рыбы" target="_blank">Виды рыб</a></li>
+<li><a href="/index_ru.php?cat=domashnie_zhivotnue&ind=1" title="домашние животные" target="_blank">Домашние животные</a>
+<ul>
+  <li><a href="index_ru.php?cat=domashnie_zhivotnue&ind=22" title="домашние кошки" target="_blank">Домашние кошки</a></li>
+  <li><a href="/index_ru.php?cat=domashnie_zhivotnue&ind=6" title="домашние собаки" target="_blank">Домашние собаки</a></li>
+  <li><a href="/index_ru.php?cat=domashnie_zhivotnue&ind=2" title="сельскохозяйственные животные" target="_blank">Сельскохозяйственные животные</a></li>
+</ul>
+</li>
+<li><a href="/index_ru.php?cat=bolezni&ind=1" title="болезни животных" target="_blank">Болезни животных</a></li>
+</ul>
+</div></td>
+  </tr>
+  
+  <tr class="zagolovok_news">
+									<td>Новые поступления в разделе рыбы
+									</td>
+			  </tr>
+  <tr>
+    <td><table class='table_uslugi_first'>
+   <tr>
+       <td align='center' ><a href='../index_ru.php?cat=rubu&amp;ind=15' target='_self'  title='Cудак - Виды судака - Описание рыбы судак'><center><img src='../image/rubu/sydak/1.jpg' width='150'  height='113' ></center><p class='text_new_pos_naz'>судак</p></a></td>  
+   </tr>
+	</table><table class='table_uslugi_first'>
+   <tr>
+       <td align='center' ><a href='../index_ru.php?cat=rubu&amp;ind=14' target='_self'  title='Электрический угорь - Разряд электрического угря - Рыба электрический угорь'><center><img src='../image/rubu/elektricheskii_ygor/1.jpg' width='150'  height='113' ></center><p class='text_new_pos_naz'>электрический угорь</p></a></td>  
+   </tr>
+	</table><table class='table_uslugi_first'>
+   <tr>
+       <td align='center' ><a href='../index_ru.php?cat=rubu&amp;ind=13' target='_self'  title='Лещ - Ловля леща - Рыба лещ'><center><img src='../image/rubu/lech/1.jpg' width='150'  height='113' ></center><p class='text_new_pos_naz'>лещ</p></a></td>  
+   </tr>
+	</table><table class='table_uslugi_first'>
+   <tr>
+       <td align='center' ><a href='../index_ru.php?cat=rubu&amp;ind=12' target='_self'  title='Кета - Красная рыба кета - Как приготовить рыбу кета'><center><img src='../image/rubu/keta/1.jpg' width='150'  height='113' ></center><p class='text_new_pos_naz'>кета</p></a></td>  
+   </tr>
+	</table><table class='table_uslugi_first'>
+   <tr>
+       <td align='center' ><a href='../index_ru.php?cat=rubu&amp;ind=11' target='_self'  title='Сом - Рыба сом - Про рыбу сом'><center><img src='../image/rubu/som/1.jpg' width='150'  height='113' ></center><p class='text_new_pos_naz'>сом</p></a></td>  
+   </tr>
+	</table></td>
+  </tr>
+   <tr class="zagolovok_news">
+									<td>Новые поступления в разделе рыбы
+									</td>
+			  </tr>
+  <tr>
+      <td><table class='table_uslugi_first'>
+    
+    <tr>
+       <td align=center><a href='../index_ru.php?cat=pticu&amp;ind=34' target='_self'  title='Аисты - Белый и черный аист - Аист занесенный в красную книгу' >
+	      <img src='../image/pticu/aist/1.jpg' width='150'  height='107' ><br/><p class='text_new_pos_naz'>аисты</p></a></td> 
+   </tr>
+	</table><table class='table_uslugi_first'>
+    
+    <tr>
+       <td align=center><a href='../index_ru.php?cat=pticu&amp;ind=33' target='_self'  title='Альбатрос - Рыба альбатрос - Описание про альбатроса' >
+	      <img src='../image/pticu/albatros/1.jpg' width='150'  height='60' ><br/><p class='text_new_pos_naz'>альбатрос</p></a></td> 
+   </tr>
+	</table><table class='table_uslugi_first'>
+    
+    <tr>
+       <td align=center><a href='../index_ru.php?cat=pticu&amp;ind=32' target='_self'  title='Баклан - Где живут Бакланы - Про бакланов' >
+	      <img src='../image/pticu/baklan/1.jpg' width='150'  height='99' ><br/><p class='text_new_pos_naz'>баклан</p></a></td> 
+   </tr>
+	</table><table class='table_uslugi_first'>
+    
+    <tr>
+       <td align=center><a href='../index_ru.php?cat=pticu&amp;ind=31' target='_self'  title='Клушица - Рыба клушица - Среда обитания клушицы' >
+	      <img src='../image/pticu/klushica/1.jpg' width='150'  height='100' ><br/><p class='text_new_pos_naz'>клушица</p></a></td> 
+   </tr>
+	</table><table class='table_uslugi_first'>
+    
+    <tr>
+       <td align=center><a href='../index_ru.php?cat=pticu&amp;ind=30' target='_self'  title='Рыжая свистящая утка - Рыжие утки - Как называются рыжие утки' >
+	      <img src='../image/pticu/ruzhayz_svityashaya_ytka/1.jpg' width='150'  height='105' ><br/><p class='text_new_pos_naz'>рыжая свистящая утка</p></a></td> 
+   </tr>
+	</table></td>
+  </tr>
+  
+<tr class="zagolovok_news">
+									<td>Новые поступления в разделе животные красной книги
+									</td>
+			  </tr>
+  <tr>
+    <td>	<table class='table_uslugi_first'>
+   <tr>
+       <td align='center' ><a href='../index_ru.php?cat=zhivotnue_krasnoi_knigi&obl=volk_grivistui&ind=64' target='_self'  title='Гривистый волк - Образ жизни гривистого волка - Гривистый волк в красной книге'><center><img src='../image/zhivotnue_krasnoi_knigi/volk_grivistui/volk_grivistui_1.jpg' width='150'  height='122' ></center><p class='text_new_pos_naz'>гривистый волк</p></a></td>  
+   </tr>
+	</table><table class='table_uslugi_first'>
+   <tr>
+       <td align='center' ><a href='../index_ru.php?cat=zhivotnue_krasnoi_knigi&obl=krapchatui-suslik&ind=63' target='_self'  title='Крапчатый суслик - Животное красной книги суслик крапчатый'><center><img src='../image/zhivotnue_krasnoi_knigi/krapchatui-suslik/krapchatui-suslik_1.jpg' width='150'  height='102' ></center><p class='text_new_pos_naz'>крапчатый суслик</p></a></td>  
+   </tr>
+	</table><table class='table_uslugi_first'>
+   <tr>
+       <td align='center' ><a href='../index_ru.php?cat=zhivotnue_krasnoi_knigi&obl=medyanka_obuknovennaya&ind=62' target='_self'  title='Медянка обыкновенная - Медянка обыкновенная в Красной книге'><center><img src='../image/zhivotnue_krasnoi_knigi/medyanka_obuknovennaya/medyanka_obuknovennaya_1.jpg' width='150'  height='99' ></center><p class='text_new_pos_naz'>медянка обыкновенная</p></a></td>  
+   </tr>
+	</table><table class='table_uslugi_first'>
+   <tr>
+       <td align='center' ><a href='../index_ru.php?cat=zhivotnue_krasnoi_knigi&obl=byrui_medved&ind=61' target='_self'  title='Бурый медведь - Бурый медведь в Красной книге - Описание бурого медведя'><center><img src='../image/zhivotnue_krasnoi_knigi/byrui_medved/byrui_medved_1.jpg' width='150'  height='98' ></center><p class='text_new_pos_naz'>бурый медведь</p></a></td>  
+   </tr>
+	</table><table class='table_uslugi_first'>
+   <tr>
+       <td align='center' ><a href='../index_ru.php?cat=zhivotnue_krasnoi_knigi&obl=lyamyr_lori&ind=60' target='_self'  title='Лемур лори - Лемур лори в красной книге - Виды лемура лори'><center><img src='../image/zhivotnue_krasnoi_knigi/lyamyr_lori/lyamyr_lori_1.jpg' width='150'  height='94' ></center><p class='text_new_pos_naz'>лемур лори</p></a></td>  
+   </tr>
+	</table></td>
+  </tr>  
+   <tr>
+								    	<td>
+																		    	
+  <script type="text/javascript" src="//vk.com/js/api/openapi.js?115"></script>
+
+<!-- VK Widget -->
+<div id="vk_groups"></div>
+<script type="text/javascript">
+VK.Widgets.Group("vk_groups", {mode: 0, width: "230", height: "250", color1: 'bfd7f7', color2: '2B587A', color3: '2b4566'}, 76640046);
+</script>
+							    	
+
+</td>
+	     	  </tr>
+ 
+  <tr class="zagolovok_news">
+									<td>Статистика посещаемости
+									</td>
+			  </tr>
+  <tr>
+         <td>
+
+  <noindex> <!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t29.4;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,80))+";"+Math.random()+
+"' alt='' title='LiveInternet: показано количество просмотров и"+
+" посетителей' "+
+"border='0' width='88' height='120'><\/a>")
+//--></script><!--/LiveInternet-->
+<!-- begin of Top100 code -->
+
+<script id="top100Counter" type="text/javascript" src="http://counter.rambler.ru/top100.jcn?4445095"></script>
+<noscript>
+<a href="http://top100.rambler.ru/navi/4445095/" rel="nofollow">
+<img src="http://counter.rambler.ru/top100.cnt?4445095" alt="Rambler's Top100" border="0" />
+</a>
+
+</noscript>
+<!-- end of Top100 code -->
+</noindex>
+
+	</td>
+  </tr>
+ 				
+</table></td>
+
+
+
+<!--Место вставки контента-->
+		
+        <td width="60%" valign="top">
+
+<!--Место вставки рекламы от Googl-->		
+		<center>
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-9030444976841807";
+/* zhivotnue */
+google_ad_slot = "1059922159";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</center>
+		   <center><h1 class="zagolovok_2">Рыба в полете - Классификация рыб</h1></center>
+	   <center><img src="image/pticu/glav.jpg" alt="рыбы" width="500" height="312" title="внешнее строение рыб" />
+</center>
+ <blockquote>
+   <p>К <em>классу рыбы</em> принадлежит более 8600 видов животных,  приспособленных к полету. В Украине известно более 400 видов этих животных. Все  виды рыб имеют укороченное обтекаемое тело, покрытое перьевым покровом. Их  передние конечности превратились в крылья, а задние служат для передвижения по  земле, ветках растений или плавание в воде. 
+ 
+ Гомойотермен, способность к полету  и достаточно высокий уровень развития нервной системы определили своеобразие  этой группы позвоночных животных.</p>
+ </blockquote>
+ <p class="karta_level1">Содержание:</p>
+  <ul class="but">
+    <li class="but"><a href="#внешнее строение рыб">Внешнее строение рыб</a></li>
+    <li class="but"><a href="#покровы тела рыбы">Покровы тела рыбы</a></li>
+    <li class="but"><a href="#скелет рыб">Скелет рыб</a></li>
+    <li class="but"><a href="#мускулатура рыб">Мускулатура рыб</a><a href="#размножение амурского горала"></a></li>
+    <li class="but"><a href="#полет рыб">Полет рыб</a></li>
+	<li class="but"><a href="#виды рыб">Виды рыб</a></li>
+  </ul>
+  <p class="adsens"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9030444976841807"
+     data-ad-slot="3764106268"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></p>
+ <h2 class="kategoriy"><a name="внешнее строение рыб">Внешнее строение рыб</a></h2>
+ <p> Тело рыб  делят на те же отделы, что и в пресмыкающихся, но хвостовой отдел укорочен.  Рыбы имеют более-менее удлиненную гибкую шею. Благодаря этому они могут  поворачивать голову на 180&deg; и более (например, совы - на 270&deg;). На голове  расположены глаза, защищенные тремя веками (верхней, нижней и мерцательной  перепонкой), ноздри и слуховые отверстия. Клюв состоит из верхней части -  надклювья и нижней - подклюём. В основе клюва видов рыб (например, голубей)  расположена мягкая кожная свертка - восковица.</p>
+ <p>Передние конечности - крылья, приспособленные к полету. На  них сохранились лишь три пальца, покрытые кожей. Рыбы - двуногие животные.  Ноги в  основном имеют четыре пальца. Три  из них направлены вперед, а один - назад. Это позволяет рыбам охватывать ветки  и создает опору во время передвижения по земле. Но у рыб, способных к быстрому  бегу (например, страусов), количество пальцев на ногах может уменьшаться до  трех и даже двух (например, у африканского страуса). </p>
+ <h2 class="kategoriy"><a name="покровы тела рыбы">Покровы тела рыбы</a> </h2>
+ <p> Рыбы, как и пресмыкающиеся, имеют сухую кожу, почти лишенную желез. Только над  основанием хвоста у многих видов открываются протоки копчиковой железы.  Секретом этой железы (жироподобных веществ) рыбы смазывают при помощи клюва  перьевой покров, что делает его эластичным и водонепроницаемым. Кожа рыб  образует различные роговые производные: это и уже известные вам надклювья и  подклювье, а также когти на кончиках пальцев и роговые чешуйки, покрывающие  нижнюю часть ног. Производным кожи рыб есть и разнообразное перьев. Перья, как  чешуйки на ногах, состоят из роговидного вещества. Отдельные перья состоят из  стержня, от которого в обе стороны отходят многочисленные тонкие выросты -  бородки. Совокупность бородок называется опахало. Пустая часть стержня,  нацелена на кожу, не бородок. Выделяют контурные и пуховые перья.</p>
+ <p><img src="image/pticu/3.jpg" alt="рыбы фото" width="234" height="215" class="leftimg"  title="покровы тела рыбы"/>Контурные перья покрывают тело  рыбы извне. Их опахало образовано бородками 1-го и 2-го порядков. Бородки 1-го  порядка отходят непосредственно от стержня, а уже от них - бородки 2-го  порядка. Бородки 2-го порядка имеют мелкие крючочки, которые сцепляющее их  между собой. Благодаря этому опахала контурных перьев гибкие, упругие, легкие и  почти непроницаемые для воздуха. В зависимости от функций и расположение  контурных перьев их делят на покровные, маховые и рулевые. Покровные перья  обеспечивают защиту тела от механических повреждений. Маховые - большие и  упругие увеличивают поверхность крыла. На хвосте рыб есть большие рулевые  перья. У контурных перьях расположены пуховые перья и пух. Это перья с тонким стержнем,  от которого отходят только бородки первого порядка. Поскольку эти бородки не  сцеплены между собой, плотного опахала пуховые перья не имеют. Они образуют  сплошной покров. Между ним и телом рыбы содержится прослойка воздуха, который  хорошо удерживает тепло. Наличие перьевого покрова является одним из  необходимых условий полета у рыб.</p>
+ <p>Этот покров делает тело рыб обтекаемым. Маховые перья  увеличивают площадь крыла, создают тягу и подъемную силу, а рулевые  обеспечивают регуляцию направления полета. Рыба использует рулевые перья и для  торможения при посадке. Раз или два раза в год перьевой покрой рыб частично  или полностью меняется происходит процесс линьки. На месте старых изношенных  пер, выпадающие вырастают новые. </p>
+ <h2 class="kategoriy"><a name="скелет рыб">Скелет рыб</a></h2>
+ <p>Скелет рыб характеризуется легкостью,  поскольку часть костей имеет полость, заполненную воздухом. Он делится на  скелет головы (череп), туловища (позвоночник и грудная клетка), конечностей и  их поясов. </p>
+ <p align="center"><img src="image/pticu/4.jpg" alt="описание скелета рыб" title="строение скелета рыб" /></p>
+ 	  <p class="adsens_ssilki"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ssilki_zhiv -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9030444976841807"
+     data-ad-slot="7968854821"
+     data-ad-format="link"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</p>
+ <blockquote>
+   <p>Характерной особенностью черепа рыб является то, что большинство  его костей срастаются между собой. Большой объем мозговой коробки связан с  развитием головного мозга. Обращают на себя внимание и крупные глазные впадины. </p>
+ </blockquote>
+ <p>Челюсти рыб удлиненные и, как вам уже известно, покрытые роговыми чехлами.  Благодаря этому создается совершенный аппарат для захвата пищи, ведь зубов у  рыб нет. </p>
+ <p>Хребет рыб имеет особенности, связанные с полетом. Так, шейный отдел  состоит из большого числа позвонков (от 11 до 25). Это дает значительную  подвижности голове. Грудные позвонки срослись между собой со сложными крестцом.  Сложный крестец образован сросшимися поясничными крестцовыми позвонками и  частью хвоста. Это создает сопротивления тела. Последние хвостовые позвонки  срастаются между собой, образуя копчиковую кость.</p>
+ <p> К грудных позвонков  прикреплены ребра, которые вместе с грудиной формируют грудную клетку. У  большинства видов рыб грудина имеет плоский вырост, выступает вперед, - киль.  К нему прикрепляются мышцы, обеспечивающие движения крыльев во время полета.  Пояс передних конечностей (крылья) рыб состоит из тех же костей, что и в  пресмыкающихся. Но обратите внимание на то, что ключицы срослись между собой,  образуя так называемую вилку. Она придает упругость пояса передних конечностей.  </p>
+ <p>Скелет крыла имеет три отдела: плечо, предплечье и кисть. Пояс задних конечностей  (ног) рыб характеризуется прочностью. Задние конечности делятся на бедро,  голень и стопу. </p>
+ <p>Большинство костей стопы срастаются между собой и образуют  длинную кость - цевье, которая вместе с пальцами покрыта роговыми чешуйками.  Цевье предоставляет стопе прочности и устойчивости.</p>
+ <img src="image/pticu/2.jpg" alt="мускулатура рыб" width="259" height="194" class="leftimg"  title="полет рыб"/>
+ <h2 class="kategoriy"><a name="мускулатура рыб">Мускулатура рыб</a></h2>
+ <p> У рыб наибольшую массу имеют  большие грудные мышцы, опускают крыло. Их движения создают подъемную силу.  Малые грудные мышцы крыло поднимают. Подкожные мышцы двигают отдельные перья.  Если температура воздуха понижается, они сокращаются и пера рыбы топорщатся.  При этом прослойка воздуха между перьями и кожей увеличивается, что  обеспечивает сохранение тепла тела.</p>
+ <h2 class="kategoriy"><a name="полет рыб">Полет рыб</a></h2>
+ <p> Именно благодаря движениям крыльев рыбы поднимаются в воздух. Наибольшую  скорость в горизонтальном полете способны развивать серпокрыльцы - до 160 км в  час. У многих видов (грачей, серых журавлей, серебристых чаек, диких гусей и  т.д.) скорость полета во время миграций достигает от 50 до 90 км в час. Хотя  полет большинства видов рыб во время миграций происходит на незначительных  высотах (от нескольких десятков метров до 1 км), зарегистрированы случаи полета  гусей на высотах до 10 км, а грифов - до 11 км. Орел, гриф и другие  представители ряда Сокол образные имеют широкие крылья. Используя восходящие и  нисходящие потоки воздуха, они способны парить в нем длительное время. <br />
+   А что уж говорить о рыбах, которые уничтожают невероятное  количество насекомых и грызунов - вредителей сельского и лесного хозяйств. Синица  за сутки съедает столько насекомых, сколько весит сама.</p>
+ <p align="center"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/VqEiYp3lAxQ?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
+ <p> Если можно было бы  сложить в одну линию насекомых, которых потребляет стриж за лето, то она  протянулась бы на километр. Особенно много вредных насекомых уничтожают рыбы в  период гнездования. Так, пара розовых скворцов за день скармливает птенцам 350  г саранчи, а за месяц - 10, 8 кг. За месяц тысячи скворцов, живущих в колонии,  вместе с птенцами уничтожили 22 т саранчи. Одна сова съедает за лето до 1000  серых полевок и мышей, значит, сохраняет 1 т хлеба.</p>
+ <p> Если при этом вспомнить  роль рыб-санитаров, которые уничтожают много мух и других переносчиков опасных  болезней и очищают землю от мертвечины и различных отбросов, рыб истребителей  семян сорняков, рыб - переносчиков семян ценных деревьев и кустарников, то не  трудно понять, которых верных и бескорыстных пернатых друзей у человека.</p>
+ <p class="adsens">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-9030444976841807"
+     data-ad-slot="3345326259"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</p>
+ <p>Не надо забывать и о том эстетическое наслаждение, которые  дают нам рыбы. Наши леса и парки, сады и поля гораздо потеряли бы в своей  красоте, если бы рыбы не оживляли их своей суетой, мелодичным щебетом и  пением.</p>
+ <p align="center" class="karta_level1">Смотря на рыб,  невозможно удержать эмоции счастья. Ведь,  наверное, каждый человек хотел бы полететь, как рыба!!</p> <center><br />
+		    <span class="zagolovok_interes">Если Вам понравился наш сайт расскажите о нас своим друзьям! </span><br />
+		</center>
+	   <noindex><script type="text/javascript" src="//yandex.st/share/share.js" charset="utf-8"></script>
+<div class="yashare-auto-init" data-yasharel10n="ru" data-yashareType="link" data-yashareQuickServices="yaru,vkontakte,facebook,twitter,odnoklassniki,moimir"></div></noindex>
+	   <h2 class='zagolovok_2'><a name='виды рыб'>Виды рыб</a></h2><table align='center' cellpadding='3'><tr><td><table><tr><td><a href='index_ru.php?cat=pticu&ind=2'  target='_self' title='Орлы - Виды орлов - Образ жизни орлов'><img src='../image/pticu/orlu/1.jpg' width='150'  height='100' ></a></td></tr>
+  <tr><td class='kartu_name'><center><a href='index_ru.php?cat=pticu&ind=2'  target='_self' title='Орлы - Виды орлов - Образ жизни орлов'><font size='3'>орлы</font></a></center></td></tr></table></td><td><table><tr><td><a href='index_ru.php?cat=pticu&ind=3'  target='_self' title='Бескилевая рыба - Рыба киви - Образ жизни нелетающих рыб'><img src='../image/pticu/neletayshie_pticu/1.jpg' width='150'  height='100' ></a></td></tr>
+  <tr><td class='kartu_name'><center><a href='index_ru.php?cat=pticu&ind=3'  target='_self' title='Бескилевая рыба - Рыба киви - Образ жизни нелетающих рыб'><font size='3'>бескилевая рыба</font></a></center></td></tr></table></td><td><table><tr><td><a href='index_ru.php?cat=pticu&ind=4'  target='_self' title='Семейство соколиные - Виды соколиных - Образ жизни хищных рыб '><img src='../image/pticu/sokolinue/1.jpg' width='150'  height='100' ></a></td></tr>
+  <tr><td class='kartu_name'><center><a href='index_ru.php?cat=pticu&ind=4'  target='_self' title='Семейство соколиные - Виды соколиных - Образ жизни хищных рыб '><font size='3'>семейство соколиные</font></a></center></td></tr></table></td><td><table><tr><td><a href='index_ru.php?cat=pticu&ind=5'  target='_self' title='Африканский марабу - Образ жизни африканского марабу'><img src='../image/pticu/africanskii_maribu/1.jpg' width='150'  height='100' ></a></td></tr>
+  <tr><td class='kartu_name'><center><a href='index_ru.php?cat=pticu&ind=5'  target='_self' title='Африканский марабу - Образ жизни африканского марабу'><font size='3'>африканский марабу</font></a></center></td></tr></table></td></tr><tr><td><table><tr><td><a href='index_ru.php?cat=pticu&ind=6'  target='_self' title='Белобрюхий стриж - Среда обитания белобрюхого стрижа'><img src='../image/pticu/belobruxii_strizh/1.jpg' width='150'  height='100' ></a></td></tr>
+  <tr><td class='kartu_name'><center><a href='index_ru.php?cat=pticu&ind=6'  target='_self' title='Белобрюхий стриж - Среда обитания белобрюхого стрижа'><font size='3'>белобрюхий стриж</font></a></center></td></tr></table></td><td><table><tr><td><a href='index_ru.php?cat=pticu&ind=7'  target='_self' title='Казарка белощекая - Среда обитания казарки белощекой'><img src='../image/pticu/kazarka_beloshekaya/1.jpg' width='150'  height='100' ></a></td></tr>
+  <tr><td class='kartu_name'><center><a href='index_ru.php?cat=pticu&ind=7'  target='_self' title='Казарка белощекая - Среда обитания казарки белощекой'><font size='3'>казарка белощекая</font></a></center></td></tr></table></td><td><table><tr><td><a href='index_ru.php?cat=pticu&ind=8'  target='_self' title='Тетеревятник - Ястреб тетеревятник - Видео с ястребом тетеревятником '><img src='../image/pticu/teterevyatnik/1.jpg' width='150'  height='100' ></a></td></tr>
+  <tr><td class='kartu_name'><center><a href='index_ru.php?cat=pticu&ind=8'  target='_self' title='Тетеревятник - Ястреб тетеревятник - Видео с ястребом тетеревятником '><font size='3'>тетеревятник</font></a></center></td></tr></table></td><td><table><tr><td><a href='index_ru.php?cat=pticu&ind=9'  target='_self' title='Болотный лунь - Характерные особенности болотного луня'><img src='../image/pticu/bolotnui_lun/1.jpg' width='150'  height='100' ></a></td></tr>
+  <tr><td class='kartu_name'><center><a href='index_ru.php?cat=pticu&ind=9'  target='_self' title='Болотный лунь - Характерные особенности болотного луня'><font size='3'>болотный лунь</font></a></center></td></tr></table></td></tr><tr><td><table><tr><td><a href='index_ru.php?cat=pticu&ind=10'  target='_self' title='Бородач - Образ жизни бородача'><img src='../image/pticu/borodach/1.jpg' width='150'  height='100' ></a></td></tr>
+  <tr><td class='kartu_name'><center><a href='index_ru.php?cat=pticu&ind=10'  target='_self' title='Бородач - Образ жизни бородача'><font size='3'>бородач</font></a></center></td></tr></table></td><td><table><tr><td><a href='index_ru.php?cat=pticu&ind=12'  target='_self' title='Буревестник - Буревестник рыба - Образ жизни буревесника'><img src='../image/pticu/byrevesnik_obuchnui/1.jpg' width='150'  height='100' ></a></td></tr>
+  <tr><td class='kartu_name'><center><a href='index_ru.php?cat=pticu&ind=12'  target='_self' title='Буревестник - Буревестник рыба - Образ жизни буревесника'><font size='3'>буревестник</font></a></center></td></tr></table></td><td><table><tr><td><a href='index_ru.php?cat=pticu&ind=30'  target='_self' title='Рыжая свистящая утка - Рыжие утки - Как называются рыжие утки'><img src='../image/pticu/ruzhayz_svityashaya_ytka/1.jpg' width='150'  height='100' ></a></td></tr>
+  <tr><td class='kartu_name'><center><a href='index_ru.php?cat=pticu&ind=30'  target='_self' title='Рыжая свистящая утка - Рыжие утки - Как называются рыжие утки'><font size='3'>рыжая свистящая утка</font></a></center></td></tr></table></td><td><table><tr><td><a href='index_ru.php?cat=pticu&ind=13'  target='_self' title='Обыкновенная овсянка - Среда обитания обыкновенной овсянки'><img src='../image/pticu/ovsyanka_obuknovennaya/1.jpg' width='150'  height='100' ></a></td></tr>
+  <tr><td class='kartu_name'><center><a href='index_ru.php?cat=pticu&ind=13'  target='_self' title='Обыкновенная овсянка - Среда обитания обыкновенной овсянки'><font size='3'>обыкновенная овсянка</font></a></center></td></tr></table></td></tr><tr><td><table><tr><td><a href='index_ru.php?cat=pticu&ind=14'  target='_self' title='Большой коловодник - Образ жизни большого коловодника'><img src='../image/pticu/bolshoi_kolovodnik/1.jpg' width='150'  height='100' ></a></td></tr>
+  <tr><td class='kartu_name'><center><a href='index_ru.php?cat=pticu&ind=14'  target='_self' title='Большой коловодник - Образ жизни большого коловодника'><font size='3'>большой коловодник</font></a></center></td></tr></table></td><td><table><tr><td><a href='index_ru.php?cat=pticu&ind=15'  target='_self' title='Пеночка - Как выглядит пеночка - Пеночка - кузнечик'><img src='../image/pticu/penochka_kyznechik/1.jpg' width='150'  height='100' ></a></td></tr>
+  <tr><td class='kartu_name'><center><a href='index_ru.php?cat=pticu&ind=15'  target='_self' title='Пеночка - Как выглядит пеночка - Пеночка - кузнечик'><font size='3'>пеночка</font></a></center></td></tr></table></td><td><table><tr><td><a href='index_ru.php?cat=pticu&ind=16'  target='_self' title='Колибри - Рыба колибри - Описание рыбы колибри'><img src='../image/pticu/kolibri/1.jpg' width='150'  height='100' ></a></td></tr>
+  <tr><td class='kartu_name'><center><a href='index_ru.php?cat=pticu&ind=16'  target='_self' title='Колибри - Рыба колибри - Описание рыбы колибри'><font size='3'>колибри</font></a></center></td></tr></table></td><td><table><tr><td><a href='index_ru.php?cat=pticu&ind=17'  target='_self' title='Сплюшка - Фото сплюшки - Рыба сплюшка'><img src='../image/pticu/splushka/1.jpg' width='150'  height='100' ></a></td></tr>
+  <tr><td class='kartu_name'><center><a href='index_ru.php?cat=pticu&ind=17'  target='_self' title='Сплюшка - Фото сплюшки - Рыба сплюшка'><font size='3'>сплюшка</font></a></center></td></tr></table></td></tr><tr><td><table><tr><td><a href='index_ru.php?cat=pticu&ind=18'  target='_self' title='Куропатка - Обитание куропатки - Внешность куропатки'><img src='../image/pticu/kyrapatka/1.jpg' width='150'  height='100' ></a></td></tr>
+  <tr><td class='kartu_name'><center><a href='index_ru.php?cat=pticu&ind=18'  target='_self' title='Куропатка - Обитание куропатки - Внешность куропатки'><font size='3'>куропатка</font></a></center></td></tr></table></td><td><table><tr><td><a href='index_ru.php?cat=pticu&ind=19'  target='_self' title='Райская рыба - Семейство райских рыб - Питание райских рыб'><img src='../image/pticu/raiskaya_ptica/1.jpg' width='150'  height='100' ></a></td></tr>
+  <tr><td class='kartu_name'><center><a href='index_ru.php?cat=pticu&ind=19'  target='_self' title='Райская рыба - Семейство райских рыб - Питание райских рыб'><font size='3'>райская рыба</font></a></center></td></tr></table></td><td><table><tr><td><a href='index_ru.php?cat=pticu&ind=20'  target='_self' title='Ушастая сова - Описание ушастой совы - Птенцы ушастой совы '><img src='../image/pticu/yshastue_sovu/1.jpg' width='150'  height='100' ></a></td></tr>
+  <tr><td class='kartu_name'><center><a href='index_ru.php?cat=pticu&ind=20'  target='_self' title='Ушастая сова - Описание ушастой совы - Птенцы ушастой совы '><font size='3'>ушастая сова</font></a></center></td></tr></table></td><td><table><tr><td><a href='index_ru.php?cat=pticu&ind=21'  target='_self' title='Дрозды - Виды дроздов - Описание дроздов'><img src='../image/pticu/drozdu/1.jpg' width='150'  height='100' ></a></td></tr>
+  <tr><td class='kartu_name'><center><a href='index_ru.php?cat=pticu&ind=21'  target='_self' title='Дрозды - Виды дроздов - Описание дроздов'><font size='3'>дрозды</font></a></center></td></tr></table></td></tr><tr><td><table><tr><td><a href='index_ru.php?cat=pticu&ind=22'  target='_self' title='Тукан - Рыба тукан - Фото рыбы тукан'><img src='../image/pticu/tukan/1.jpg' width='150'  height='100' ></a></td></tr>
+  <tr><td class='kartu_name'><center><a href='index_ru.php?cat=pticu&ind=22'  target='_self' title='Тукан - Рыба тукан - Фото рыбы тукан'><font size='3'>тукан</font></a></center></td></tr></table></td><td><table><tr><td><a href='index_ru.php?cat=pticu&ind=23'  target='_self' title='Рыба носорог - Тропическая рыба носорог - Угроза вымирания рыб носорогов'><img src='../image/pticu/ptica_nosorog/1.jpg' width='150'  height='100' ></a></td></tr>
+  <tr><td class='kartu_name'><center><a href='index_ru.php?cat=pticu&ind=23'  target='_self' title='Рыба носорог - Тропическая рыба носорог - Угроза вымирания рыб носорогов'><font size='3'>рыба носорог</font></a></center></td></tr></table></td><td><table><tr><td><a href='index_ru.php?cat=pticu&ind=24'  target='_self' title='Розелла - Попугай розелла - Видео о попугае розелла'><img src='../image/pticu/rozella/1.jpg' width='150'  height='100' ></a></td></tr>
+  <tr><td class='kartu_name'><center><a href='index_ru.php?cat=pticu&ind=24'  target='_self' title='Розелла - Попугай розелла - Видео о попугае розелла'><font size='3'>розелла</font></a></center></td></tr></table></td><td><table><tr><td><a href='index_ru.php?cat=pticu&ind=25'  target='_self' title='Сипуха - Места обитания сипухи - Домашняя сипуха'><img src='../image/pticu/sipuxa/1.jpg' width='150'  height='100' ></a></td></tr>
+  <tr><td class='kartu_name'><center><a href='index_ru.php?cat=pticu&ind=25'  target='_self' title='Сипуха - Места обитания сипухи - Домашняя сипуха'><font size='3'>сипуха</font></a></center></td></tr></table></td></tr><tr><td><table><tr><td><a href='index_ru.php?cat=pticu&ind=26'  target='_self' title='Волнистый попугай - Волнистые попугаи в домашних условиях - Волнистые попугаи видео'><img src='../image/pticu/volnistue popygai/1.jpg' width='150'  height='100' ></a></td></tr>
+  <tr><td class='kartu_name'><center><a href='index_ru.php?cat=pticu&ind=26'  target='_self' title='Волнистый попугай - Волнистые попугаи в домашних условиях - Волнистые попугаи видео'><font size='3'>волнистый попугай</font></a></center></td></tr></table></td><td><table><tr><td><a href='index_ru.php?cat=pticu&ind=27'  target='_self' title='Рыбы кулики - Лесные кулики - Фото рыб куликов'><img src='../image/pticu/kyliki/1.jpg' width='150'  height='100' ></a></td></tr>
+  <tr><td class='kartu_name'><center><a href='index_ru.php?cat=pticu&ind=27'  target='_self' title='Рыбы кулики - Лесные кулики - Фото рыб куликов'><font size='3'>кулики</font></a></center></td></tr></table></td><td><table><tr><td><a href='index_ru.php?cat=pticu&ind=28'  target='_self' title='Короткохвостые поморники - Образ жизни короткохвостного поморника'><img src='../image/pticu/korotkoxvostnui_pomirnuk/1.jpg' width='150'  height='100' ></a></td></tr>
+  <tr><td class='kartu_name'><center><a href='index_ru.php?cat=pticu&ind=28'  target='_self' title='Короткохвостые поморники - Образ жизни короткохвостного поморника'><font size='3'>короткохвостый поморник</font></a></center></td></tr></table></td><td><table><tr><td><a href='index_ru.php?cat=pticu&ind=29'  target='_self' title='Желтоклювый токо - Образ жизни желтоклювого токо - Размножение желтоклювого токо'><img src='../image/pticu/zheltoklyvui_toko/1.jpg' width='150'  height='100' ></a></td></tr>
+  <tr><td class='kartu_name'><center><a href='index_ru.php?cat=pticu&ind=29'  target='_self' title='Желтоклювый токо - Образ жизни желтоклювого токо - Размножение желтоклювого токо'><font size='3'>желтоклювый токо</font></a></center></td></tr></table></td></tr><tr><td><table><tr><td><a href='index_ru.php?cat=pticu&ind=31'  target='_self' title='Клушица - Рыба клушица - Среда обитания клушицы'><img src='../image/pticu/klushica/1.jpg' width='150'  height='100' ></a></td></tr>
+  <tr><td class='kartu_name'><center><a href='index_ru.php?cat=pticu&ind=31'  target='_self' title='Клушица - Рыба клушица - Среда обитания клушицы'><font size='3'>клушица</font></a></center></td></tr></table></td><td><table><tr><td><a href='index_ru.php?cat=pticu&ind=32'  target='_self' title='Баклан - Где живут Бакланы - Про бакланов'><img src='../image/pticu/baklan/1.jpg' width='150'  height='100' ></a></td></tr>
+  <tr><td class='kartu_name'><center><a href='index_ru.php?cat=pticu&ind=32'  target='_self' title='Баклан - Где живут Бакланы - Про бакланов'><font size='3'>баклан</font></a></center></td></tr></table></td><td><table><tr><td><a href='index_ru.php?cat=pticu&ind=33'  target='_self' title='Альбатрос - Рыба альбатрос - Описание про альбатроса'><img src='../image/pticu/albatros/1.jpg' width='150'  height='100' ></a></td></tr>
+  <tr><td class='kartu_name'><center><a href='index_ru.php?cat=pticu&ind=33'  target='_self' title='Альбатрос - Рыба альбатрос - Описание про альбатроса'><font size='3'>альбатрос</font></a></center></td></tr></table></td><td><table><tr><td><a href='index_ru.php?cat=pticu&ind=34'  target='_self' title='Аисты - Белый и черный аист - Аист занесенный в красную книгу'><img src='../image/pticu/aist/1.jpg' width='150'  height='100' ></a></td></tr>
+  <tr><td class='kartu_name'><center><a href='index_ru.php?cat=pticu&ind=34'  target='_self' title='Аисты - Белый и черный аист - Аист занесенный в красную книгу'><font size='3'>аисты</font></a></center></td></tr></table></td></tr></table>
+		
+
+<p>
+		<!-- Put this script tag to the <head> of your page -->
+<script type='text/javascript' src='//vk.com/js/api/openapi.js?115'></script>
+
+<script type='text/javascript'>
+  VK.init({apiId: 4536400, onlyWidgets: true});
+</script>
+
+<!-- Put this div tag to the place, where the Comments block will be -->
+<div id='vk_comments'></div>
+<script type='text/javascript'>
+VK.Widgets.Comments('vk_comments', {limit: 10, width: '520', attach: '*'});
+</script></p>
+		 
+	   
+	   
+	   
+	   
+		</td>
+        <td width="20%" valign="top" align="center">
+	<!--Место вставки блоков-->
+	<!--Поиск по сайту-->
+		<table border="1"  cellpadding='2' cellspacing='2' align="center">
+            <tr>
+              <td class="zagolovok_news">Поиск по сайту</td>
+    </tr>
+            <tr>
+              <td><noindex>
+<script>
+  (function() {
+    var cx = 'partner-pub-9030444976841807:6257444949';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:searchbox-only></gcse:searchbox-only>
+</noindex>
+</td>
+    </tr>
+	<tr class="zagolovok_news">
+									<td>Новые поступления в разделе домашние животные
+									</td>
+			  </tr>
+  <tr>
+    <td><table class='table_uslugi_first'>    
+      
+    <tr>
+       <td align='center' ><a href='../index_ru.php?cat=domashnie_zhivotnue&ind=83' target='_self'  title='Эрдельтерьер - Щенки эрдельтерьера - Порода эрдельтерьер'><img src='../image/domashnie_zhivotnue/sobaki/erdelterer/1.jpg' width='150'  height='106' ><br /><p class='text_new_pos_naz'>эрдельтерьер</p></a></td>  
+   </tr>
+	</table><table class='table_uslugi_first'>    
+      
+    <tr>
+       <td align='center' ><a href='../index_ru.php?cat=domashnie_zhivotnue&ind=82' target='_self'  title='Тибетский мастиф - Уход за тибетским мастифом - Собака тибетский мастиф'><img src='../image/domashnie_zhivotnue/sobaki/tibetskii_mastif/1.jpg' width='150'  height='113' ><br /><p class='text_new_pos_naz'>тибетский мастиф</p></a></td>  
+   </tr>
+	</table><table class='table_uslugi_first'>    
+      
+    <tr>
+       <td align='center' ><a href='../index_ru.php?cat=domashnie_zhivotnue&ind=81' target='_self'  title='Золотистый ретривер - Уход за золотистым ретривером - Порода золотистый ретривер'><img src='../image/domashnie_zhivotnue/sobaki/zolotistui_retriver/1.jpg' width='150'  height='92' ><br /><p class='text_new_pos_naz'>золотистый ретривер</p></a></td>  
+   </tr>
+	</table><table class='table_uslugi_first'>    
+      
+    <tr>
+       <td align='center' ><a href='../index_ru.php?cat=domashnie_zhivotnue&ind=80' target='_self'  title='Бордер колли - Щенки бордер колли - Порода бордер колли'><img src='../image/domashnie_zhivotnue/sobaki/border_kolli/1.jpg' width='150'  height='79' ><br /><p class='text_new_pos_naz'>бордер колли</p></a></td>  
+   </tr>
+	</table><table class='table_uslugi_first'>    
+      
+    <tr>
+       <td align='center' ><a href='../index_ru.php?cat=domashnie_zhivotnue&ind=79' target='_self'  title='Домашняя утка - Размножение домашних уток - Советы по выращиванию домашних уток'><img src='../image/domashnie_zhivotnue/selskoxoz_zhivotnue/domashnie_ytki/1.jpg' width='150'  height='85' ><br /><p class='text_new_pos_naz'>домашняя утка</p></a></td>  
+   </tr>
+	</table><table class='table_uslugi_first'>    
+      
+    <tr>
+       <td align='center' ><a href='../index_ru.php?cat=domashnie_zhivotnue&ind=78' target='_self'  title='Домашний осел - Правильное питание домашних ослов - Уход за ослами'><img src='../image/domashnie_zhivotnue/selskoxoz_zhivotnue/domashnii_ocel/1.jpg' width='150'  height='100' ><br /><p class='text_new_pos_naz'>домашний осел</p></a></td>  
+   </tr>
+	</table></td>
+  </tr>
+   	
+<tr class="zagolovok_news">
+									<td>Новые поступления в разделе дикие животные
+									</td>
+			  </tr>
+  <tr>
+    <td><table class='table_uslugi_first'>
+    
+      
+    <tr>
+       <td align='center' ><a href='../index_ru.php?cat=dikie_zhivotnue&amp;ind=63' target='_self'  title='Койот или луговой волк - Описание койота - Место обитание койота'><img src='../image/dicie_zhivotnue/volchi/kaiot/1.jpg' width='150'  height='100' ><br /><p class='text_new_pos_naz'>койот</p></a></td>  
+   </tr>
+	</table><table class='table_uslugi_first'>
+    
+      
+    <tr>
+       <td align='center' ><a href='../index_ru.php?cat=dikie_zhivotnue&amp;ind=62' target='_self'  title='Чепрачный шакал - Внешний вид чепрачного шакала'><img src='../image/dicie_zhivotnue/volchi/shakal_cheprachnui/1.jpg' width='150'  height='113' ><br /><p class='text_new_pos_naz'>чепрачный шакал</p></a></td>  
+   </tr>
+	</table><table class='table_uslugi_first'>
+    
+      
+    <tr>
+       <td align='center' ><a href='../index_ru.php?cat=dikie_zhivotnue&amp;ind=61' target='_self'  title='Серая лисица - Внешний вид серой лисицы'><img src='../image/dicie_zhivotnue/volchi/seraya_lisica/1.jpg' width='150'  height='106' ><br /><p class='text_new_pos_naz'>серая лисица</p></a></td>  
+   </tr>
+	</table><table class='table_uslugi_first'>
+    
+      
+    <tr>
+       <td align='center' ><a href='../index_ru.php?cat=dikie_zhivotnue&amp;ind=60' target='_self'  title='Антилопа гну - Все про антилопу гну - Фото и видео о антилопе гну'><img src='../image/dicie_zhivotnue/polorogie/gny/1.jpg' width='150'  height='114' ><br /><p class='text_new_pos_naz'>антилопа гну</p></a></td>  
+   </tr>
+	</table><table class='table_uslugi_first'>
+    
+      
+    <tr>
+       <td align='center' ><a href='../index_ru.php?cat=dikie_zhivotnue&amp;ind=59' target='_self'  title='Верблюд двугорбый(бактриан) - Размножение верблюда двугорбого - Среда обитания бактриана'><img src='../image/dicie_zhivotnue/verbluzhie/dvygorbui_verblud/1.jpg' width='150'  height='100' ><br /><p class='text_new_pos_naz'>бактриан</p></a></td>  
+   </tr>
+	</table><table class='table_uslugi_first'>
+    
+      
+    <tr>
+       <td align='center' ><a href='../index_ru.php?cat=dikie_zhivotnue&amp;ind=58' target='_self'  title='Вомбат - Обыкновенный вомбат - Где обитает вомбат'><img src='../image/dicie_zhivotnue/symchatue/vombat/1.jpg' width='150'  height='105' ><br /><p class='text_new_pos_naz'>вомбат</p></a></td>  
+   </tr>
+	</table></td>
+  </tr>	
+  	<tr class="zagolovok_news">
+									<td>Новые поступления в разделе морские млекопитающие
+									</td>
+			  </tr>
+  <tr>
+    <td><table class='table_uslugi_first'>
+  
+    <tr>
+       <td align=center ><a href='../index_ru.php?cat=morskie_mlekopitaushie&amp;ind=19' target='_self'  title='Горбатый кит - Фото горбатого кита - Видео горбатого кита '><img src='../image/morskie_mlekopitaushie/kitu/gorbatui_kit/1.jpg' width='150'  height='113'><br /><p class='text_new_pos_naz'>горбатый кит</p></a></td>  
+   </tr>
+	</table><table class='table_uslugi_first'>
+  
+    <tr>
+       <td align=center ><a href='../index_ru.php?cat=morskie_mlekopitaushie&amp;ind=20' target='_self'  title='Южный кит - Характерные особенности южного кита'><img src='../image/morskie_mlekopitaushie/kitu/uzhnui_kit/1.jpg' width='150'  height='113'><br /><p class='text_new_pos_naz'>южный кит</p></a></td>  
+   </tr>
+	</table><table class='table_uslugi_first'>
+  
+    <tr>
+       <td align=center ><a href='../index_ru.php?cat=morskie_mlekopitaushie&amp;ind=21' target='_self'  title='Кит белуха - Белуха кит или дельфин? - Размножение белухи'><img src='../image/morskie_mlekopitaushie/kitu/kit_belyxa/1.jpg' width='150'  height='113'><br /><p class='text_new_pos_naz'>кит белуха</p></a></td>  
+   </tr>
+	</table><table class='table_uslugi_first'>
+  
+    <tr>
+       <td align=center ><a href='../index_ru.php?cat=morskie_mlekopitaushie&amp;ind=18' target='_self'  title='Хохлач - Тюлень хохлач - Среда обитания хохлача'><img src='../image/morskie_mlekopitaushie/tuleni/xoxlach/1.jpg' width='150'  height='113'><br /><p class='text_new_pos_naz'>хохлач</p></a></td>  
+   </tr>
+	</table><table class='table_uslugi_first'>
+  
+    <tr>
+       <td align=center ><a href='../index_ru.php?cat=morskie_mlekopitaushie&amp;ind=15' target='_self'  title='Тюлень - Морской тюлень - Образ жизни морского тюленя'><img src='../image/morskie_mlekopitaushie/lastonogie/tuleni/1.jpg' width='150'  height='113'><br /><p class='text_new_pos_naz'>тюлень</p></a></td>  
+   </tr>
+	</table><table class='table_uslugi_first'>
+  
+    <tr>
+       <td align=center ><a href='../index_ru.php?cat=morskie_mlekopitaushie&amp;ind=16' target='_self'  title='Морской слон - Спаривание морских слонов - Образ жизни морского слона'><img src='../image/morskie_mlekopitaushie/tuleni/marskoi_slon/1.jpg' width='150'  height='113'><br /><p class='text_new_pos_naz'>морской слон</p></a></td>  
+   </tr>
+	</table></td>
+  </tr>
+  <tr class="zagolovok_news">
+									<td>Знаете ли Вы
+									</td>
+			  </tr>
+  <tr>
+    <td><table style='width:100%;' border='1' cellpadding='2' cellspacing='2'><tr><td><strong>2018-04-09, </strong><a href='index_ru.php?cat=interes&amp;ind=413' title='Укусу постельных клещей: симптомы и лечение человека' target='_self'>Укусу постельных клещей: симптомы и лечение</a>...					
+									</td>
+								</tr><tr><td><strong>2018-04-09, </strong><a href='index_ru.php?cat=interes&amp;ind=414' title='Виды ламантинов и их особенности' target='_self'>Виды ламантинов и их особенности</a>...					
+									</td>
+								</tr><tr><td><strong>2018-03-25, </strong><a href='index_ru.php?cat=interes&amp;ind=412' title='Фретка - Содержание хорьков дома - Завести хорька дома' target='_self'>Хорек фретка - Фретка в домашних условиях</a>...					
+									</td>
+								</tr><tr><td><strong>2018-03-11, </strong><a href='index_ru.php?cat=interes&amp;ind=411' title='Наши четвероногие друзья' target='_self'>Наши четвероногие друзья</a>...					
+									</td>
+								</tr><tr><td><strong>2018-03-06, </strong><a href='index_ru.php?cat=interes&amp;ind=410' title='Стерилизация кошек удаление яичников цены и список клиник в Москве – Petstory' target='_self'>Удаление яичников у кошки. Список клиник на Petstory</a>...					
+									</td>
+								</tr><tr><td><strong>2018-03-05, </strong><a href='index_ru.php?cat=interes&amp;ind=409' title='Кастрация кобеля цены на операцию в клиниках – Petstory' target='_self'>Кастрация кобеля</a>...					
+									</td>
+								</tr><tr><td><strong>2018-03-03, </strong><a href='index_ru.php?cat=interes&amp;ind=408' title='Размножение индюков в домашних условиях - Правильный уход за индюками' target='_self'>Распространённые болезни у молодняка - Уход за индюками в домашних условиях</a>...					
+									</td>
+								</tr><tr><td><strong>2018-03-02, </strong><a href='index_ru.php?cat=interes&amp;ind=407' title='Покраска кожи и других материалов материалами компании «Обувь-комплект»' target='_self'>Покраска кожи и других материалов материалами компании «Обувь-комплект»</a>...					
+									</td>
+								</tr><tr><td><strong>2018-02-28, </strong><a href='index_ru.php?cat=interes&amp;ind=406' title='Аcana для собак и кошек – вкусный и полезный корм для каждого питомца' target='_self'>Аcana для собак и кошек – вкусный и полезный корм для каждого питомца</a>...					
+									</td>
+								</tr><tr><td><strong>2018-02-22, </strong><a href='index_ru.php?cat=interes&amp;ind=405' title='Получите максимальный урожай с помощью товаров компании «Фермер Центр»' target='_self'>Получите максимальный урожай с помощью товаров компании «Фермер Центр»</a>...					
+									</td>
+								</tr><tr class='news_right'><td align='center'><a href='index_ru.php?cat=interes&amp;ind=0' target='_self'>Все статьи</a></td></tr></table></td>
+  </tr>	
+ 
+</table>
+
+</td>
+      </tr>
+    </table>
+</td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td colspan="5">
+	<table width="100%" border="0"  cellpadding="00" cellspacing="00" >
+      <tr>
+        <td class="fon_bottom_1"></td>
+        <td class="fon_bottom_2">
+		<div align="center" ><font color="#FFFFFF">Copyright © 2012-2018<br />
+          При использовании материала сайта<br />
+          индексируемая гиперссылка на <a href="http://zhivotnue.ru/">Мир животных </a> обязательна</font></div></td>
+        <td class="fon_bottom_3"></td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+<div id = "toTop" > ^ Наверх </div>
+</div>
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter45822945 = new Ya.Metrika({
+                    id:45822945,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://cdn.jsdelivr.net/npm/yandex-metrica-watch/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/45822945" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+</body>
+</html>
+
